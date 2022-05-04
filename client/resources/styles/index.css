@@ -29,6 +29,7 @@ input {
 }
 
 .coverArt {
-    max-width: 250px;
+    width: min(10vw, 400px);
     height: auto;
+
 }

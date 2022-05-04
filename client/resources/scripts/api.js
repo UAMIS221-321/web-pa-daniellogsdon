@@ -1,5 +1,5 @@
 const cwid = "12053898";
-const baseUrl = "https://pa6-backend.herokuapp.com/api/books/"+cwid;
+const baseUrl = "https://pa6-backend.herokuapp.com/api/books/";
 var bookList = [];
 var myBook = {};
 
